@@ -6,6 +6,10 @@ Instant of use the classic `<button></button>` HTML element you can use the Reac
 
 <br>
 
+![image](buttons.png)
+
+<br>
+
 ## Packages & Dependencies
 
 The component using the following packages:
@@ -68,7 +72,3 @@ Apart from the className where you can add any css style from Tailwindcss or a c
 - There is some hover pre-coded styling as well
 
 **_see the attached example App.js file_**
-
-<br>
-
-![image](buttons.png)
