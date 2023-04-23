@@ -14,6 +14,8 @@ The component using the following packages:
 - [npm classnames](https://www.npmjs.com/package/classnames)
 - [React Icons](https://react-icons.github.io/react-icons/)
 
+<br>
+
 ## The Component
 
 Download or copy & paste the code of the Button.js file
