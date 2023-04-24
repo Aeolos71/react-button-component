@@ -9,7 +9,7 @@ import {
 import logo from './logo.png';
 import Button from './Button';
 
-function App() {
+function ButtonPage() {
   const handleClick = () => {
     alert('You clicked the button');
   };
@@ -129,4 +129,4 @@ function App() {
   );
 }
 
-export default App;
+export default ButtonPage;
