@@ -44,7 +44,7 @@ Add the @tailwind directives for each of Tailwind’s layers to your main CSS fi
 @tailwind utilities;
 ```
 
-Inside the file you want to use the component ex. `App.js` add the following code:
+Inside the file you want to use the component ex. `ButtonPage.js` add the following code:
 
 ```jsx
 import { GiClick } from 'react-icons/gi';
